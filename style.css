@@ -7,9 +7,12 @@ body {
   color: #575F7D;
 }
 
+p {
+  line-height: 1.3;
+}
+
 h1 {
   color: #28527a;
-  font-family: 'Poppins';
 }
 
 a {
